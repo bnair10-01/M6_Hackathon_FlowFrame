@@ -1,0 +1,2 @@
+int font noto_sans_regular 0x7f010000
+int font noto_sans_semibold 0x7f010001

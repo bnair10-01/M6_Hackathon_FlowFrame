@@ -1,0 +1,2 @@
+com.stevencastro.wornrun:font/noto_sans_semibold = 0x7f010001
+com.stevencastro.wornrun:font/noto_sans_regular = 0x7f010000

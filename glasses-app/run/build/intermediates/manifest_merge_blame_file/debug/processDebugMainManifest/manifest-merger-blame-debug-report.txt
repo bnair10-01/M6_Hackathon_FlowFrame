@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stevencastro.wornrun"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Android 9 (the glasses) only needs the legacy Bluetooth permissions. -->
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:5:5-68
+12-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:5:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:6:5-74
+13-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:6:22-71
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+14-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:7:5-78
+14-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:7:22-75
+15    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+15-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:8:5-76
+15-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:8:22-73
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:9:5-77
+16-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:9:22-74
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+17-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:10:5-94
+17-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:10:22-91
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:11:5-65
+18-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:11:22-62
+19    <uses-permission
+19-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:5-108
+20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+20-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:22-78
+21        android:maxSdkVersion="28" />
+21-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:79-105
+22    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+22-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:13:5-81
+22-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:13:22-78
+23
+24    <uses-feature
+24-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:5-90
+25        android:name="android.hardware.bluetooth_le"
+25-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:19-63
+26        android:required="true" />
+26-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:64-87
+27
+28    <application
+28-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:16:5-42:19
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:label="Worn Run"
+31-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:17:9-33
+32        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+32-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:18:9-73
+33        <activity
+33-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:19:9-28:20
+34            android:name="com.stevencastro.wornrun.HudActivity"
+34-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:20:13-40
+35            android:exported="true"
+35-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:21:13-36
+36            android:launchMode="singleTask"
+36-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:22:13-44
+37            android:screenOrientation="landscape" >
+37-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:23:13-50
+38            <intent-filter>
+38-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:24:13-27:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:25:17-69
+39-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:25:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:26:17-77
+41-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:26:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <service
+45-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:30:9-33:63
+46            android:name="com.stevencastro.wornrun.RunService"
+46-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:31:13-39
+47            android:exported="true"
+47-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:32:13-36
+48            android:foregroundServiceType="connectedDevice" />
+48-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:33:13-60
+49
+50        <receiver
+50-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:35:9-41:20
+51            android:name="com.stevencastro.wornrun.BootReceiver"
+51-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:36:13-41
+52            android:exported="true" >
+52-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:37:13-36
+53            <intent-filter>
+53-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:38:13-40:29
+54                <action android:name="android.intent.action.BOOT_COMPLETED" />
+54-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:39:17-79
+54-->/Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:39:25-76
+55            </intent-filter>
+56        </receiver>
+57    </application>
+58
+59</manifest>

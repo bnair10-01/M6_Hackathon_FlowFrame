@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stevencastro.wornhub.HubTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-21T14:39:18" hostname="Steves-MacBook-Pro.local" time="0.023">
+  <properties/>
+  <testcase name="emptyAndSingleChunk" classname="com.stevencastro.wornhub.HubTest" time="0.008"/>
+  <testcase name="rejectsGarbageRequest" classname="com.stevencastro.wornhub.HubTest" time="0.002"/>
+  <testcase name="ranges" classname="com.stevencastro.wornhub.HubTest" time="0.008"/>
+  <testcase name="tokens" classname="com.stevencastro.wornhub.HubTest" time="0.0"/>
+  <testcase name="parsesRequest" classname="com.stevencastro.wornhub.HubTest" time="0.001"/>
+  <testcase name="chunksRoundTrip" classname="com.stevencastro.wornhub.HubTest" time="0.003"/>
+  <testcase name="outOfOrderResetsThenRecovers" classname="com.stevencastro.wornhub.HubTest" time="0.0"/>
+  <testcase name="bearerTokenWins" classname="com.stevencastro.wornhub.HubTest" time="0.0"/>
+  <testcase name="batteryCapacityEstimate" classname="com.stevencastro.wornhub.HubTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

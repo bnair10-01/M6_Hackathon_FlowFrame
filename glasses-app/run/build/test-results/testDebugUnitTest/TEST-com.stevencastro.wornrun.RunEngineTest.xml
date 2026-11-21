@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stevencastro.wornrun.RunEngineTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2026-11-21T16:10:18" hostname="Steves-MacBook-Pro.local" time="0.024">
+  <properties/>
+  <testcase name="autoPauseOffKeepsCounting" classname="com.stevencastro.wornrun.RunEngineTest" time="0.013"/>
+  <testcase name="elevationHysteresis" classname="com.stevencastro.wornrun.RunEngineTest" time="0.001"/>
+  <testcase name="distanceIsAccurateWithNoisyFixes" classname="com.stevencastro.wornrun.RunEngineTest" time="0.003"/>
+  <testcase name="resumesWithoutPhoneSpeed" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="splitsFireEachKilometre" classname="com.stevencastro.wornrun.RunEngineTest" time="0.001"/>
+  <testcase name="loopRouteMatchesTheRightPass" classname="com.stevencastro.wornrun.RunEngineTest" time="0.002"/>
+  <testcase name="autoPausesWhenStoppedAndResumes" classname="com.stevencastro.wornrun.RunEngineTest" time="0.001"/>
+  <testcase name="milesSplitAtOneMile" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="hydrationOff" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="hydrationReminderAndDrink" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="speedAndAveragePace" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="offBodySensorDoesNotPause" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="nextTurnOnLShapedRoute" classname="com.stevencastro.wornrun.RunEngineTest" time="0.001"/>
+  <testcase name="heartRateShowsUntilStale" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="routeRemainingAndEta" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="offRouteWarnsAfterDelayAndClears" classname="com.stevencastro.wornrun.RunEngineTest" time="0.001"/>
+  <testcase name="manualPauseFreezesElapsed" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="hotterAndFasterSweatsMore" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <testcase name="cadenceFromStepCounter" classname="com.stevencastro.wornrun.RunEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

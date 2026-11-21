@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:10:5-94
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:10:22-91
+uses-permission#android.permission.CAMERA
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:5-108
+	android:maxSdkVersion
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:79-105
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:13:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:5-90
+	android:required
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:64-87
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:14:19-63
+application
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:16:5-42:19
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:16:5-42:19
+	android:extractNativeLibs
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:17:9-33
+	android:theme
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:18:9-73
+activity#com.stevencastro.wornrun.HudActivity
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:23:13-50
+	android:launchMode
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:22:13-44
+	android:exported
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:20:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:26:27-74
+service#com.stevencastro.wornrun.RunService
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:30:9-33:63
+	android:exported
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:32:13-36
+	android:foregroundServiceType
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:33:13-60
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:31:13-39
+receiver#com.stevencastro.wornrun.BootReceiver
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:35:9-41:20
+	android:exported
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:38:13-40:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml:39:25-76
+uses-sdk
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/steve/Desktop/g/glasses-app/run/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+com.stevencastro.wornhello.app-pngs-0 /Users/steve/Desktop/g/glasses-app/app/build/generated/res/pngs/debug
+com.stevencastro.wornhello.app-resValues-1 /Users/steve/Desktop/g/glasses-app/app/build/generated/res/resValues/debug
+com.stevencastro.wornhello.app-packageDebugResources-2 /Users/steve/Desktop/g/glasses-app/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.stevencastro.wornhello.app-packageDebugResources-3 /Users/steve/Desktop/g/glasses-app/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.stevencastro.wornhello.app-debug-4 /Users/steve/Desktop/g/glasses-app/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.stevencastro.wornhello.app-debug-5 /Users/steve/Desktop/g/glasses-app/app/src/debug/res
+com.stevencastro.wornhello.app-main-6 /Users/steve/Desktop/g/glasses-app/app/src/main/res

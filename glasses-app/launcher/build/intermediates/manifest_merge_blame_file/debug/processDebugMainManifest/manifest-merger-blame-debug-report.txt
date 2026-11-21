@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stevencastro.wornlauncher"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Needed to list other apps when targeting API 30+ (ignored on the API 28 glasses). -->
+12    <queries>
+12-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:5:5-10:15
+13        <intent>
+13-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:6:9-9:18
+14            <action android:name="android.intent.action.MAIN" />
+14-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:13-65
+14-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:21-62
+15
+16            <category android:name="android.intent.category.LAUNCHER" />
+16-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:8:13-73
+16-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:8:23-70
+17        </intent>
+18    </queries>
+19
+20    <application
+20-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:12:5-32:19
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:label="Head Launcher"
+23-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:13:9-38
+24        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+24-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:14:9-73
+25        <activity
+25-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:15:9-31:20
+26            android:name="com.stevencastro.wornlauncher.LauncherActivity"
+26-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:16:13-45
+27            android:exported="true"
+27-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:17:13-36
+28            android:launchMode="singleTask"
+28-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:18:13-44
+29            android:screenOrientation="landscape"
+29-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:20:13-50
+30            android:stateNotNeeded="true" >
+30-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:19:13-42
+31            <intent-filter>
+31-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:21:13-24:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:13-65
+32-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:21-62
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:8:13-73
+34-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:8:23-70
+35            </intent-filter>
+36            <!-- Lets the user pick this as the home screen. -->
+37            <intent-filter>
+37-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:26:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:13-65
+38-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:7:21-62
+39
+40                <category android:name="android.intent.category.HOME" />
+40-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:28:17-73
+40-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:28:27-70
+41                <category android:name="android.intent.category.DEFAULT" />
+41-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:29:17-76
+41-->/Users/steve/Desktop/g/glasses-app/launcher/src/main/AndroidManifest.xml:29:27-73
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>

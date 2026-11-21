@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stevencastro.wornrun.RunProtocolTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-21T16:10:18" hostname="Steves-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="outOfOrderChunkResets" classname="com.stevencastro.wornrun.RunProtocolTest" time="0.0"/>
+  <testcase name="fixRoundTrip" classname="com.stevencastro.wornrun.RunProtocolTest" time="0.001"/>
+  <testcase name="rejectsGarbage" classname="com.stevencastro.wornrun.RunProtocolTest" time="0.0"/>
+  <testcase name="unknownSpeedAndCourse" classname="com.stevencastro.wornrun.RunProtocolTest" time="0.0"/>
+  <testcase name="routeRoundTripThroughChunks" classname="com.stevencastro.wornrun.RunProtocolTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

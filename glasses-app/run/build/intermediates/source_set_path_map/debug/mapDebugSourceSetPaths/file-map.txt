@@ -1,0 +1,7 @@
+com.stevencastro.wornrun-pngs-0 /Users/steve/Desktop/g/glasses-app/run/build/generated/res/pngs/debug
+com.stevencastro.wornrun-resValues-1 /Users/steve/Desktop/g/glasses-app/run/build/generated/res/resValues/debug
+com.stevencastro.wornrun-packageDebugResources-2 /Users/steve/Desktop/g/glasses-app/run/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.stevencastro.wornrun-packageDebugResources-3 /Users/steve/Desktop/g/glasses-app/run/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.stevencastro.wornrun-debug-4 /Users/steve/Desktop/g/glasses-app/run/build/intermediates/merged_res/debug/mergeDebugResources
+com.stevencastro.wornrun-debug-5 /Users/steve/Desktop/g/glasses-app/run/src/debug/res
+com.stevencastro.wornrun-main-6 /Users/steve/Desktop/g/glasses-app/run/src/main/res

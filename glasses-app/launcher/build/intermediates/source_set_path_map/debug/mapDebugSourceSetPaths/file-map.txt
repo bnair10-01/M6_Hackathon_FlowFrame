@@ -1,0 +1,7 @@
+com.stevencastro.wornlauncher-pngs-0 /Users/steve/Desktop/g/glasses-app/launcher/build/generated/res/pngs/debug
+com.stevencastro.wornlauncher-resValues-1 /Users/steve/Desktop/g/glasses-app/launcher/build/generated/res/resValues/debug
+com.stevencastro.wornlauncher-packageDebugResources-2 /Users/steve/Desktop/g/glasses-app/launcher/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.stevencastro.wornlauncher-packageDebugResources-3 /Users/steve/Desktop/g/glasses-app/launcher/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.stevencastro.wornlauncher-debug-4 /Users/steve/Desktop/g/glasses-app/launcher/build/intermediates/merged_res/debug/mergeDebugResources
+com.stevencastro.wornlauncher-debug-5 /Users/steve/Desktop/g/glasses-app/launcher/src/debug/res
+com.stevencastro.wornlauncher-main-6 /Users/steve/Desktop/g/glasses-app/launcher/src/main/res

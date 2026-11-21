@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.stevencastro.wornrun-debug-4:/font_noto_sans_regular.ttf.flat",
+        "source": "com.stevencastro.wornrun-main-6:/font/noto_sans_regular.ttf"
+    },
+    {
+        "merged": "com.stevencastro.wornrun-debug-4:/font_noto_sans_semibold.ttf.flat",
+        "source": "com.stevencastro.wornrun-main-6:/font/noto_sans_semibold.ttf"
+    }
+]
