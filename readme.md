@@ -1,5 +1,7 @@
 # Worn Run
 
+Second Place Winner at the Worn Hackathon in NYC. Powered on MicronLumin M6 Glasses.
+
 A hands-free running HUD for the **M6 smart glasses** (640×480 display, Android 9 / API 28, temple touchpad), driven by an **iPhone companion app** that supplies GPS and routes over Bluetooth LE.
 
 You start a run, pocket the phone, and the glasses show pace, distance, time, elevation, splits, the next turn and an off-route warning. Everything on the glasses is controlled from the temple touchpad.
