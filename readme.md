@@ -14,6 +14,10 @@ You start a run, pocket the phone, and the glasses show pace, distance, time, el
 
 
 
+https://github.com/user-attachments/assets/e7f4463d-02ef-4032-8b05-7138b3db3efd
+
+
+
 ---
 
 ## Target hardware
