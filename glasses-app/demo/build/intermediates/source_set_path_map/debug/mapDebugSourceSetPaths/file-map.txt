@@ -1,7 +1,0 @@
-com.stevencastro.worndemo-pngs-0 /Users/steve/Desktop/g/glasses-app/demo/build/generated/res/pngs/debug
-com.stevencastro.worndemo-resValues-1 /Users/steve/Desktop/g/glasses-app/demo/build/generated/res/resValues/debug
-com.stevencastro.worndemo-packageDebugResources-2 /Users/steve/Desktop/g/glasses-app/demo/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.stevencastro.worndemo-packageDebugResources-3 /Users/steve/Desktop/g/glasses-app/demo/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.stevencastro.worndemo-debug-4 /Users/steve/Desktop/g/glasses-app/demo/build/intermediates/merged_res/debug/mergeDebugResources
-com.stevencastro.worndemo-debug-5 /Users/steve/Desktop/g/glasses-app/demo/src/debug/res
-com.stevencastro.worndemo-main-6 /Users/steve/Desktop/g/glasses-app/demo/src/main/res

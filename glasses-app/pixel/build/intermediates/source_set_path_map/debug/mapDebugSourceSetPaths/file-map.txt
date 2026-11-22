@@ -1,7 +1,0 @@
-com.stevencastro.wornpixel-pngs-0 /Users/steve/Desktop/g/glasses-app/pixel/build/generated/res/pngs/debug
-com.stevencastro.wornpixel-resValues-1 /Users/steve/Desktop/g/glasses-app/pixel/build/generated/res/resValues/debug
-com.stevencastro.wornpixel-packageDebugResources-2 /Users/steve/Desktop/g/glasses-app/pixel/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.stevencastro.wornpixel-packageDebugResources-3 /Users/steve/Desktop/g/glasses-app/pixel/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.stevencastro.wornpixel-debug-4 /Users/steve/Desktop/g/glasses-app/pixel/build/intermediates/merged_res/debug/mergeDebugResources
-com.stevencastro.wornpixel-debug-5 /Users/steve/Desktop/g/glasses-app/pixel/src/debug/res
-com.stevencastro.wornpixel-main-6 /Users/steve/Desktop/g/glasses-app/pixel/src/main/res

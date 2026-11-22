@@ -14,14 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WornHello"
-include(":app")
-include(":demo")
-include(":pixel")
-include(":translator")
-include(":viewfinder")
-include(":link")
-include(":launcher")
-include(":ask")
+rootProject.name = "WornRun"
 include(":run")
-include(":hub")
